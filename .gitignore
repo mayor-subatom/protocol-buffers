@@ -12,3 +12,9 @@
 
 # Project-local glide cache, RE: https://github.com/Masterminds/glide/issues/736
 .glide/
+.idea/
+bin/
+pkg/
+src/github.com/golang/protobuf
+mydb.pb
+src/proto_buf_db/todo/todo.pb.go
